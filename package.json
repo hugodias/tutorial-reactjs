@@ -1,0 +1,16 @@
+{
+  "name": "reactjs-twitter",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "chance": "^0.7.3",
+    "express": "2.5.10",
+    "faker": "^2.1.2",
+    "jade": ">= 0.26.1",
+    "socket.io": ">= 0.9.6",
+    "string": "^3.0.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
